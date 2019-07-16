@@ -1,0 +1,15 @@
+C:\Users\1400725\Desktop\Rest_Manual\Demo\claro-demo-alumno\claro-rest-api-common\src\main\java\pe\com\claro\common\model\BaseEntity.java
+C:\Users\1400725\Desktop\Rest_Manual\Demo\claro-demo-alumno\claro-rest-api-common\src\main\java\pe\com\claro\common\resource\exception\BadUsageException.java
+C:\Users\1400725\Desktop\Rest_Manual\Demo\claro-demo-alumno\claro-rest-api-common\src\main\java\pe\com\claro\common\resource\exception\BDException.java
+C:\Users\1400725\Desktop\Rest_Manual\Demo\claro-demo-alumno\claro-rest-api-common\src\main\java\pe\com\claro\common\resource\exception\NotFoundException.java
+C:\Users\1400725\Desktop\Rest_Manual\Demo\claro-demo-alumno\claro-rest-api-common\src\main\java\pe\com\claro\common\resource\exception\WSException.java
+C:\Users\1400725\Desktop\Rest_Manual\Demo\claro-demo-alumno\claro-rest-api-common\src\main\java\pe\com\claro\common\domain\repository\AbstractRepository.java
+C:\Users\1400725\Desktop\Rest_Manual\Demo\claro-demo-alumno\claro-rest-api-common\src\main\java\pe\com\claro\common\resource\exception\BadRequestException.java
+C:\Users\1400725\Desktop\Rest_Manual\Demo\claro-demo-alumno\claro-rest-api-common\src\main\java\pe\com\claro\common\resource\exception\ErrorMessage.java
+C:\Users\1400725\Desktop\Rest_Manual\Demo\claro-demo-alumno\claro-rest-api-common\src\main\java\pe\com\claro\common\resource\util\ApiResponse.java
+C:\Users\1400725\Desktop\Rest_Manual\Demo\claro-demo-alumno\claro-rest-api-common\src\main\java\pe\com\claro\common\resource\exception\ComunesExceptionBean.java
+C:\Users\1400725\Desktop\Rest_Manual\Demo\claro-demo-alumno\claro-rest-api-common\src\main\java\pe\com\claro\common\resource\exception\FormatException.java
+C:\Users\1400725\Desktop\Rest_Manual\Demo\claro-demo-alumno\claro-rest-api-common\src\main\java\pe\com\claro\common\resource\util\HeaderRequestBean.java
+C:\Users\1400725\Desktop\Rest_Manual\Demo\claro-demo-alumno\claro-rest-api-common\src\main\java\pe\com\claro\common\resource\exception\ApiException.java
+C:\Users\1400725\Desktop\Rest_Manual\Demo\claro-demo-alumno\claro-rest-api-common\src\main\java\pe\com\claro\common\resource\exception\ProviderExceptionMapper.java
+C:\Users\1400725\Desktop\Rest_Manual\Demo\claro-demo-alumno\claro-rest-api-common\src\main\java\pe\com\claro\common\resource\util\MessageFilterBean.java

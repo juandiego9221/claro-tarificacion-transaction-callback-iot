@@ -1,0 +1,8 @@
+pe\com\claro\common\property\MappingResponseException.class
+pe\com\claro\common\property\ConvertException.class
+pe\com\claro\common\property\Constantes.class
+pe\com\claro\common\property\ConverterUtil.class
+pe\com\claro\common\property\UtilList.class
+pe\com\claro\common\property\BodyResponse.class
+pe\com\claro\common\property\ClaroUtil.class
+pe\com\claro\common\property\JAXBUtilitarios.class
