@@ -10,6 +10,18 @@
 		<module>claro-messaging</module>
 		<module>claro-rest-api-client</module>
 		<module>claro-rest-api-common</module>
+		<module>
+			claro-tarificacion-transaction-callback-iot-canonical
+		</module>
+		<module>
+			claro-tarificacion-transaction-callback-iot-domain
+		</module>
+		<module>
+			claro-tarificacion-transaction-callback-iot-model
+		</module>
+		<module>
+			claro-tarificacion-transaction-callback-iot-resource
+		</module>
 	</modules>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

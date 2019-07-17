@@ -2,10 +2,16 @@ package pe.com.claro.common.property;
 
 public class Constantes{
 
+	public final static String PATH_RESOURCE 						= "/tarificacion/transaction/callback/iot/v1.0.0";
+	public final static String PATH_RESOURCE_PRINCIPAL 				= "/transaction-callback-iot";
+	public final static String PATH_RESOURCE_DESCRIPCION 			= "Bienvenido)";
+	public final static String PATH_RESOURCE_PRODUCES 				= ";charset=UTF-8";
+	public static final String PATH									= "/obtenerAspCallback";
+	
 	public static final String	NOMBRERECURSO						= "claro-vent-ventas";
 	public static final String	SEPARADORPUNTO						= ".";
 	public static final String	VERSION								= "1.0.0";
-	public static final String	PATH								= "/vent/venta/v1.0.0/ventas";
+	
 	public static final String	BASEPATH							= "claro-vent-ventas-resource/api";
 	public static final String	RESOURCE							= "/ventas";
 	public static final String	DESCRIPCIONRESOURCE					= "Operaciones sobre ventas";
